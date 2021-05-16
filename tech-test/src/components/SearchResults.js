@@ -4,16 +4,14 @@ import "./SearchResults.css";
 
 const SearchResults = ({ results }) => {
   if (!results.length) {
-    return <p className="no-results">No results</p>;
+    return <p className="no-results">No results. Please refine your search.</p>;
   } else {
     return (
       <div className="search-results">
         {results.map((image) => (
           <img  className="card-image" src={image} alt="spaceImage" />
         ))}
-
       </div>
-      
     );
   }
 };

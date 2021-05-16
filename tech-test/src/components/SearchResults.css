@@ -1,19 +1,15 @@
-.search-results-text {
-   margin: auto;
-   margin-top: 20px;
-   font-weight: bold;
-}
-
 .card-image {
    margin: 5px;
    height: 150px;
    width: 180px;
    margin-top: 25px;
+   border-radius: 20px;
+   margin-left: 20px
 }
 
 .no-results {
    font-weight: bold;
    font-size: 25px;
-  margin-left: 45%;
-
+   margin-left: auto;
+   text-align: center;
 }
