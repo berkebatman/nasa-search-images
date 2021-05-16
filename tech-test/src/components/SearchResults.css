@@ -4,7 +4,6 @@
    width: 180px;
    margin-top: 25px;
    border-radius: 20px;
-   margin-left: 20px
 }
 
 .no-results {
@@ -13,3 +12,11 @@
    margin-left: auto;
    text-align: center;
 }
+
+ .image-container {
+   display: inline-block;
+   width: 100%;
+   margin-top: 15px;
+}
+
+ 

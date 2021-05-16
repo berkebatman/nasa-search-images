@@ -1,15 +1,13 @@
 .App {
   display: flex;
-  flex-direction: column; 
-  justify-content: center;
-  margin: auto;
+  flex-direction: column;
 }
 
 .NasaImage {
   width: 500px;
   height: 250px;
-  margin-left: auto;
-  margin-right: auto;
+  margin: auto;
 }
-
-
+.search-results {
+  margin: 50px;
+}

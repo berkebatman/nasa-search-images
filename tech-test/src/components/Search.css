@@ -14,6 +14,11 @@
    font-weight: bold;
 }
 
+.button:hover {
+   background-color: gray;
+   color: #B01713;
+}
+
 
 .InputBar {
    width:300px;
@@ -21,7 +26,7 @@
    border-radius: 11px;
    font-size: 20px;
    padding: 0 10px;
-   text-align: center; 
+   text-align: left; 
  }
 
  
