@@ -13,7 +13,7 @@ const SearchBar = ({ setSearchResults }) => {
    return (
          <> 
          <form className="form" onSubmit={submitButtonHandler}>
-         <input className="InputBar" type="text" onChange={(e) => setValue(e.target.value)}/>
+         <input className="InputBar" type="text" onChange={(e) => setValue(e.target.value)} placeholder="Search NASA's image library..." />
          <button className="button" type="submit"  > Search </button>
          </form>
          </>
