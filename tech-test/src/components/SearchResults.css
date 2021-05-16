@@ -5,8 +5,15 @@
 }
 
 .card-image {
-   margin: auto;
+   margin: 5px;
    height: 150px;
    width: 180px;
    margin-top: 25px;
+}
+
+.no-results {
+   font-weight: bold;
+   font-size: 25px;
+  margin-left: 45%;
+
 }
