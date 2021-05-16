@@ -1,0 +1,12 @@
+.search-results-text {
+   margin: auto;
+   margin-top: 20px;
+   font-weight: bold;
+}
+
+.card-image {
+   margin: auto;
+   height: 150px;
+   width: 180px;
+   margin-top: 25px;
+}

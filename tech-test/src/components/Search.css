@@ -1,0 +1,30 @@
+.form {
+   margin: auto;
+   display: flex;
+   flex-direction: row;
+}
+
+.button {
+   width: 100px;
+   margin-left: 10px;
+   background-color: #B01713;
+   border-radius: 11px;
+   color: white;
+   font-size: 17px;
+   font-family: Arial, Helvetica, sans-serif;
+   font-weight: bold;
+}
+
+
+.InputBar {
+   width: 50;
+   height: 50px;
+   border-radius: 11px;
+   font-size: 20px;
+   padding: 0 10px;
+   text-align: center; 
+ }
+
+ 
+
+ 
